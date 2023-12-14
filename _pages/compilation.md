@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Paper on Cultural Alignment"
+title: "Papers on Cultural Alignment"
 permalink: /compilation/
 author_profile: true
 ---
