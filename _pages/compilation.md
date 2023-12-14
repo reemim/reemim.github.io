@@ -7,6 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-{% for paper in site.papers %}
-  {% include archive-single.html %}
-{% endfor %}
+# Compilation of Papers on Cultural Alignment and AI
+
+Here's a compilation of my research papers:
+
+- [Test](URL-to-paper-one)
+- [Title of Paper Two](URL-to-paper-two)
+- [Title of Paper Three](URL-to-paper-three)
+
+...and so on.
