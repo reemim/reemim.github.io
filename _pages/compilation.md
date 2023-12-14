@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Papers on Cultural Alignment"
+title: "Compilation of Papers of Cultural Alignment and AI"
 permalink: /compilation/
 author_profile: true
 ---
 
 {% include base_path %}
 
-# Compilation of Papers on Cultural Alignment and AI
 
 Here's a compilation of my research papers:
 
