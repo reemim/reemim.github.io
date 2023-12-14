@@ -117,6 +117,7 @@ author:
   wikipedia        :
 
 
+
 # Reading Files
 include:
   - .htaccess
@@ -211,7 +212,7 @@ defaults:
       author_profile: true
   # _teaching
   - scope:
-      path: "/_pages/teaching.md"
+      path: ""
       type: teaching
     values:
       layout: single
