@@ -192,6 +192,7 @@ collections:
     permalink: /:collection/:path/
   papers:
     output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
