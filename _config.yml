@@ -250,6 +250,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  #_compilation
+    # _portfolio
+  - scope:
+      path: ""
+      type: compilation
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 # Sass/SCSS
 sass:
