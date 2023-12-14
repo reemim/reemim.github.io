@@ -1,10 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/   
+  - title: "Teaching"
+    url: /teaching/   
         
+  - title: "Interactive Projects"
+    url: /teaching/
+  
   - title: "CV"
     url: /cv/
 
-  - title: "Compilation"
+  - title: "Compilation of Papers"
     url: /compilation/
