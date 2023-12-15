@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Compilation of Papers"
+    url: /compilation/
+    
   - title: "Teaching"
     url: /teaching/   
         
