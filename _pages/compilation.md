@@ -23,7 +23,7 @@ The purpose of this repository is to:
 - [How to Contribute](#how-to-contribute)
 
 ## Papers
-A compilation of academic papers, articles, and publications exploring AI, Language Models, and cultural/human value alignment.
+A compilation of academic papers, articles, and publications exploring AI, Language Models, and cultural value alignment.
 
 ### 2023
 - [Should ChatGPT be Biased? Challenges and Risks of Bias in Large Language Models](https://arxiv.org/pdf/2304.03738.pdf)
