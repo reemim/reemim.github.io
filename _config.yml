@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Reem Ibrahim Masoud"
 description              : &description "personal description"
 url                      : https://reemim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : ""
+baseurl                  : https://reemim.github.io
 repository               : "reemim/reemim.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
