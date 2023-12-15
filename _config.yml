@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Reem Ibrahim Masoud"
-  avatar           : "images/image.png"
+  avatar           : "/images/image.png"
   bio              : "..."
   location         : "London, United Kingdom"
   employer         :
