@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: "Compilation of Papers of Cultural Alignment and AI"
+title: "Compilation of Papers on Cultural Alignment and AI"
 permalink: /compilation/
 author_profile: true
 ---
 
 {% include base_path %}
 
-
-# Cultural Alignment in AI and Language Models
 
 ## Introduction
 Welcome to this repository, a comprehensive collection of research and papers focused on cultural alignment and human value alignment in Artificial Intelligence, with a special emphasis on Language Models. This field is crucial for ensuring AI systems are developed and implemented in ways that are sensitive to diverse cultural norms and values.
